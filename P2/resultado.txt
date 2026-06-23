@@ -1,0 +1,22 @@
+
+--- Consulta p1 ---
+Data: 15/06/26
+Hora: 14:30:00
+Paciente: Ana Silva
+Medico: Dr. Carlos
+Quantidade de consultas: 1
+
+--- Consulta p2 ---
+Data: 20/06/26
+Hora: 09:00:00
+Paciente: Bruno Lima
+Medico: Dra. Fernanda
+Quantidade de consultas: 2
+
+--- p1 atualizado ---
+Data: 10/03/27
+Hora: 08:45:00
+Paciente: Ana Souza
+Medico: Dr. Roberto
+
+Total de consultas: 2
